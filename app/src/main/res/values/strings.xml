@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Caffeine</string>
+    <string name="back">back</string>
+        <string name="strength_low">Low</string>
+        <string name="strength_medium">Medium</string>
+        <string name="strength_high">High</string>
+    <string name="coffee_black">Black</string>
+    <string name="coffee_latte">Latte</string>
+    <string name="coffee_macchiato">Macchiato</string>
+    <string name="coffee_espresso">Espresso</string>
+    <string name="size_small">S</string>
+    <string name="size_medium">M</string>
+    <string name="size_large">L</string>
+    <string name="toggle_on">ON</string>
+    <string name="toggle_off">OFF</string>
+    <string name="take_away">Take Away</string>
+    <string name="continue_text">Continue</string>
+
+
+</resources>

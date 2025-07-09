@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">للخلف</string>
+    <string name="strength_low">خفيفة</string>
+    <string name="strength_medium">متوسطة</string>
+    <string name="strength_high">قوية</string>
+    <string name="coffee_black">سوداء</string>
+    <string name="coffee_latte">لاتيه</string>
+    <string name="coffee_macchiato">ماكياتو</string>
+    <string name="coffee_espresso">إسبريسو</string>
+
+
+</resources>
